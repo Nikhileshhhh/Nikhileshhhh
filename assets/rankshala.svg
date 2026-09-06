@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 350" width="940" height="350" role="img" aria-label="RankShala organic user growth in the first 14 days">
+<defs>
+  <linearGradient id="rPanel" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#150e24"/>
+  </linearGradient>
+  <linearGradient id="rArea" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#A855F7" stop-opacity="0.55"/>
+    <stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="rLine" gradientUnits="userSpaceOnUse" x1="80" y1="0" x2="720" y2="0">
+    <stop offset="0" stop-color="#00E5FF"/><stop offset="0.55" stop-color="#A855F7"/><stop offset="1" stop-color="#F472B6"/>
+  </linearGradient>
+  <filter id="rGlow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="4.5" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <clipPath id="rReveal"><rect x="80" y="60" width="0" height="220"><animate attributeName="width" from="0" to="650" begin="0.4s" dur="2.8s" fill="freeze"/></rect></clipPath>
+  <style>
+    .mono { font-family: ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; }
+    .sans { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+  </style>
+  <path id="rCurve" d="M80 268 L124 262 L168 250 L212 232 L256 218 L300 198 L344 186 L388 168 L432 150 L476 136 L520 118 L564 104 L608 92 L652 82 L696 74"/>
+</defs>
+
+<rect x="1" y="1" width="938" height="348" rx="16" fill="url(#rPanel)" stroke="#2a2145"/>
+
+<text class="sans" x="26" y="34" font-size="17" font-weight="700" fill="#E6EDF3">RankShala</text>
+<text class="mono" x="124" y="34" font-size="12" fill="#5C7A99">/ college admission prediction &#183; founder, solo build</text>
+<g transform="translate(786 20)">
+  <rect width="132" height="22" rx="11" fill="#1a1226" stroke="#A855F7" stroke-opacity="0.5"/>
+  <circle cx="14" cy="11" r="3.6" fill="#A855F7"><animate attributeName="opacity" values="1;0.2;1" dur="1.9s" repeatCount="indefinite"/></circle>
+  <text class="mono" x="26" y="15" font-size="10.5" fill="#D8B4FE" letter-spacing="1.1">ZERO AD SPEND</text>
+</g>
+<line x1="20" y1="46" x2="920" y2="46" stroke="#2a2145"/>
+
+<!-- grid -->
+<g stroke="#1e2a44" stroke-dasharray="3 6">
+  <line x1="80" y1="80"  x2="720" y2="80"/>
+  <line x1="80" y1="128" x2="720" y2="128"/>
+  <line x1="80" y1="176" x2="720" y2="176"/>
+  <line x1="80" y1="224" x2="720" y2="224"/>
+</g>
+<line x1="80" y1="272" x2="720" y2="272" stroke="#2c4a68"/>
+<g class="mono" font-size="10" fill="#41556d" text-anchor="end">
+  <text x="70" y="84">200</text><text x="70" y="132">150</text>
+  <text x="70" y="180">100</text><text x="70" y="228">50</text><text x="70" y="276">0</text>
+</g>
+<g class="mono" font-size="10" fill="#41556d" text-anchor="middle">
+  <text x="80"  y="292">day 0</text><text x="256" y="292">day 4</text>
+  <text x="432" y="292">day 8</text><text x="608" y="292">day 12</text><text x="700" y="292">day 14</text>
+</g>
+
+<!-- area + line -->
+<g clip-path="url(#rReveal)">
+  <path d="M80 268 L124 262 L168 250 L212 232 L256 218 L300 198 L344 186 L388 168 L432 150 L476 136 L520 118 L564 104 L608 92 L652 82 L696 74 L696 272 L80 272 Z" fill="url(#rArea)"/>
+</g>
+<use href="#rCurve" fill="none" stroke="url(#rLine)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"
+     filter="url(#rGlow)" stroke-dasharray="700" stroke-dashoffset="700">
+  <animate attributeName="stroke-dashoffset" from="700" to="0" begin="0.4s" dur="2.8s" fill="freeze"/>
+</use>
+<circle r="5" fill="#F472B6" filter="url(#rGlow)">
+  <animateMotion dur="2.8s" begin="0.4s" fill="freeze"><mpath href="#rCurve"/></animateMotion>
+</circle>
+
+<!-- milestones -->
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.9s" fill="freeze"/>
+  <circle cx="168" cy="250" r="5" fill="#0b1220" stroke="#00E5FF" stroke-width="2.5"/>
+  <line x1="168" y1="244" x2="168" y2="214" stroke="#00E5FF" stroke-opacity="0.4"/>
+  <text class="mono" x="168" y="206" font-size="10.5" fill="#00E5FF" text-anchor="middle">100 users &#183; 48h</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.9s" fill="freeze"/>
+  <circle cx="696" cy="74" r="6" fill="#0b1220" stroke="#F472B6" stroke-width="2.5"/>
+  <circle cx="696" cy="74" r="6" fill="none" stroke="#F472B6">
+    <animate attributeName="r" values="6;20" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<line x1="750" y1="60" x2="750" y2="300" stroke="#2a2145"/>
+
+<!-- KPI stack -->
+<g transform="translate(776 0)">
+  <text class="mono" x="0" y="86" font-size="9.5" fill="#41556d" letter-spacing="1.8">USERS / 14 DAYS</text>
+  <g class="sans" font-size="42" font-weight="800" fill="#F472B6">
+    <text x="0" y="128" opacity="0"><animate attributeName="opacity" values="0;1;1;0" dur="0.32s" begin="0.5s"/>18</text>
+    <text x="0" y="128" opacity="0"><animate attributeName="opacity" values="0;1;1;0" dur="0.32s" begin="0.82s"/>54</text>
+    <text x="0" y="128" opacity="0"><animate attributeName="opacity" values="0;1;1;0" dur="0.32s" begin="1.14s"/>97</text>
+    <text x="0" y="128" opacity="0"><animate attributeName="opacity" values="0;1;1;0" dur="0.32s" begin="1.46s"/>131</text>
+    <text x="0" y="128" opacity="0"><animate attributeName="opacity" values="0;1;1;0" dur="0.32s" begin="1.78s"/>168</text>
+    <text x="0" y="128" opacity="0"><animate attributeName="opacity" values="0;1;1;0" dur="0.32s" begin="2.10s"/>189</text>
+    <text x="0" y="128" opacity="0" filter="url(#rGlow)"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.9s" fill="freeze"/>200<tspan font-size="26" fill="#D8B4FE">+</tspan></text>
+  </g>
+
+  <text class="mono" x="0" y="168" font-size="9.5" fill="#41556d" letter-spacing="1.8">MARKETING SPEND</text>
+  <text class="sans" x="0" y="202" font-size="34" font-weight="800" fill="#22D3A6" opacity="0" letter-spacing="1">
+    <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.2s" fill="freeze"/>ZERO</text>
+
+  <text class="mono" x="0" y="240" font-size="9.5" fill="#41556d" letter-spacing="1.8">EXAMS COVERED</text>
+  <g class="mono" font-size="10.5" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.5s" fill="freeze"/>
+    <rect x="0"  y="252" width="62" height="20" rx="10" fill="#1a1226" stroke="#A855F7" stroke-opacity="0.45"/>
+    <text x="31" y="266" fill="#D8B4FE" text-anchor="middle">JEE Main</text>
+    <rect x="70" y="252" width="66" height="20" rx="10" fill="#1a1226" stroke="#A855F7" stroke-opacity="0.45"/>
+    <text x="103" y="266" fill="#D8B4FE" text-anchor="middle">JEE Adv</text>
+    <rect x="0"  y="278" width="62" height="20" rx="10" fill="#1a1226" stroke="#A855F7" stroke-opacity="0.45"/>
+    <text x="31" y="292" fill="#D8B4FE" text-anchor="middle">EAPCET</text>
+    <rect x="70" y="278" width="66" height="20" rx="10" fill="#1a1226" stroke="#A855F7" stroke-opacity="0.45"/>
+    <text x="103" y="292" fill="#D8B4FE" text-anchor="middle">EAMCET</text>
+  </g>
+</g>
+
+<line x1="20" y1="312" x2="920" y2="312" stroke="#2a2145"/>
+<text class="mono" x="26" y="334" font-size="10.5" fill="#41556d">React &#183; Vite &#183; Supabase (Postgres + RLS) &#183; Edge Functions &#183; Razorpay subscriptions &#183; Free / Pro / Premium</text>
+</svg>

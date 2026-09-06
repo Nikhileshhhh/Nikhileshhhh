@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 58" width="1200" height="58" role="img" aria-label="Scrolling list of achievements">
+<defs>
+  <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#0b1220" stop-opacity="1"/>
+    <stop offset="0.07" stop-color="#0b1220" stop-opacity="0"/>
+    <stop offset="0.93" stop-color="#0b1220" stop-opacity="0"/>
+    <stop offset="1" stop-color="#0b1220" stop-opacity="1"/>
+  </linearGradient>
+  <clipPath id="mClip"><rect x="0" y="0" width="1200" height="58" rx="12"/></clipPath>
+  <style>.mono { font-family: ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; }</style>
+</defs>
+<rect width="1200" height="58" rx="12" fill="#0b1220" stroke="#1e3350"/>
+<g clip-path="url(#mClip)">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-3066.8 0" dur="36s" repeatCount="indefinite"/>
+    <g transform="translate(0.0 0)"><rect x="0" y="14" width="365.2" height="30" rx="15" fill="#1c160a" stroke="#FBBF24" stroke-opacity="0.5"/><circle cx="16" cy="29" r="3.4" fill="#FBBF24"/><text class="mono" x="28" y="33" font-size="11.5" fill="#D6E4F0">1st Place  -  ABB Accelerator National Hackathon</text></g>
+<g transform="translate(381.2 0)"><rect x="0" y="14" width="310.0" height="30" rx="15" fill="#1c160a" stroke="#FBBF24" stroke-opacity="0.5"/><circle cx="16" cy="29" r="3.4" fill="#FBBF24"/><text class="mono" x="28" y="33" font-size="11.5" fill="#D6E4F0">beat 1,400+ teams / 14,000+ participants</text></g>
+<g transform="translate(707.2 0)"><rect x="0" y="14" width="330.7" height="30" rx="15" fill="#08202a" stroke="#00E5FF" stroke-opacity="0.5"/><circle cx="16" cy="29" r="3.4" fill="#00E5FF"/><text class="mono" x="28" y="33" font-size="11.5" fill="#D6E4F0">2nd Place  -  TechSprint, GDG by TensorFlow</text></g>
+<g transform="translate(1053.9 0)"><rect x="0" y="14" width="268.6" height="30" rx="15" fill="#08202a" stroke="#00E5FF" stroke-opacity="0.5"/><circle cx="16" cy="29" r="3.4" fill="#00E5FF"/><text class="mono" x="28" y="33" font-size="11.5" fill="#D6E4F0">2nd Place  -  Youth Speak Ideathon</text></g>
+<g transform="translate(1338.5 0)"><rect x="0" y="14" width="275.5" height="30" rx="15" fill="#1a1226" stroke="#A855F7" stroke-opacity="0.5"/><circle cx="16" cy="29" r="3.4" fill="#A855F7"/><text class="mono" x="28" y="33" font-size="11.5" fill="#D6E4F0">RankShala  -  200+ users in 14 days</text></g>
+<g transform="translate(1630.0 0)"><rect x="0" y="14" width="323.8" height="30" rx="15" fill="#0c1a17" stroke="#22D3A6" stroke-opacity="0.5"/><circle cx="16" cy="29" r="3.4" fill="#22D3A6"/><text class="mono" x="28" y="33" font-size="11.5" fill="#D6E4F0">Brighter Brainzz  -  70+ students mentored</text></g>
+<g transform="translate(1969.8 0)"><rect x="0" y="14" width="234.1" height="30" rx="15" fill="#241220" stroke="#F472B6" stroke-opacity="0.5"/><circle cx="16" cy="29" r="3.4" fill="#F472B6"/><text class="mono" x="28" y="33" font-size="11.5" fill="#D6E4F0">AWS Academy Cloud Foundations</text></g>
+<g transform="translate(2219.9 0)"><rect x="0" y="14" width="282.4" height="30" rx="15" fill="#241220" stroke="#F472B6" stroke-opacity="0.5"/><circle cx="16" cy="29" r="3.4" fill="#F472B6"/><text class="mono" x="28" y="33" font-size="11.5" fill="#D6E4F0">TATA GenAI Data Analytics  -  Forage</text></g>
+<g transform="translate(2518.3 0)"><rect x="0" y="14" width="268.6" height="30" rx="15" fill="#241220" stroke="#F472B6" stroke-opacity="0.5"/><circle cx="16" cy="29" r="3.4" fill="#F472B6"/><text class="mono" x="28" y="33" font-size="11.5" fill="#D6E4F0">Deloitte Data Analytics  -  Forage</text></g>
+<g transform="translate(2802.9 0)"><rect x="0" y="14" width="247.9" height="30" rx="15" fill="#0c1a17" stroke="#22D3A6" stroke-opacity="0.5"/><circle cx="16" cy="29" r="3.4" fill="#22D3A6"/><text class="mono" x="28" y="33" font-size="11.5" fill="#D6E4F0">Cricket Captain  -  State Level</text></g>
+    <g transform="translate(3066.8 0)"><rect x="0" y="14" width="365.2" height="30" rx="15" fill="#1c160a" stroke="#FBBF24" stroke-opacity="0.5"/><circle cx="16" cy="29" r="3.4" fill="#FBBF24"/><text class="mono" x="28" y="33" font-size="11.5" fill="#D6E4F0">1st Place  -  ABB Accelerator National Hackathon</text></g>
+<g transform="translate(3448.0 0)"><rect x="0" y="14" width="310.0" height="30" rx="15" fill="#1c160a" stroke="#FBBF24" stroke-opacity="0.5"/><circle cx="16" cy="29" r="3.4" fill="#FBBF24"/><text class="mono" x="28" y="33" font-size="11.5" fill="#D6E4F0">beat 1,400+ teams / 14,000+ participants</text></g>
+<g transform="translate(3774.0 0)"><rect x="0" y="14" width="330.7" height="30" rx="15" fill="#08202a" stroke="#00E5FF" stroke-opacity="0.5"/><circle cx="16" cy="29" r="3.4" fill="#00E5FF"/><text class="mono" x="28" y="33" font-size="11.5" fill="#D6E4F0">2nd Place  -  TechSprint, GDG by TensorFlow</text></g>
+<g transform="translate(4120.7 0)"><rect x="0" y="14" width="268.6" height="30" rx="15" fill="#08202a" stroke="#00E5FF" stroke-opacity="0.5"/><circle cx="16" cy="29" r="3.4" fill="#00E5FF"/><text class="mono" x="28" y="33" font-size="11.5" fill="#D6E4F0">2nd Place  -  Youth Speak Ideathon</text></g>
+<g transform="translate(4405.3 0)"><rect x="0" y="14" width="275.5" height="30" rx="15" fill="#1a1226" stroke="#A855F7" stroke-opacity="0.5"/><circle cx="16" cy="29" r="3.4" fill="#A855F7"/><text class="mono" x="28" y="33" font-size="11.5" fill="#D6E4F0">RankShala  -  200+ users in 14 days</text></g>
+<g transform="translate(4696.8 0)"><rect x="0" y="14" width="323.8" height="30" rx="15" fill="#0c1a17" stroke="#22D3A6" stroke-opacity="0.5"/><circle cx="16" cy="29" r="3.4" fill="#22D3A6"/><text class="mono" x="28" y="33" font-size="11.5" fill="#D6E4F0">Brighter Brainzz  -  70+ students mentored</text></g>
+<g transform="translate(5036.6 0)"><rect x="0" y="14" width="234.1" height="30" rx="15" fill="#241220" stroke="#F472B6" stroke-opacity="0.5"/><circle cx="16" cy="29" r="3.4" fill="#F472B6"/><text class="mono" x="28" y="33" font-size="11.5" fill="#D6E4F0">AWS Academy Cloud Foundations</text></g>
+<g transform="translate(5286.7 0)"><rect x="0" y="14" width="282.4" height="30" rx="15" fill="#241220" stroke="#F472B6" stroke-opacity="0.5"/><circle cx="16" cy="29" r="3.4" fill="#F472B6"/><text class="mono" x="28" y="33" font-size="11.5" fill="#D6E4F0">TATA GenAI Data Analytics  -  Forage</text></g>
+<g transform="translate(5585.1 0)"><rect x="0" y="14" width="268.6" height="30" rx="15" fill="#241220" stroke="#F472B6" stroke-opacity="0.5"/><circle cx="16" cy="29" r="3.4" fill="#F472B6"/><text class="mono" x="28" y="33" font-size="11.5" fill="#D6E4F0">Deloitte Data Analytics  -  Forage</text></g>
+<g transform="translate(5869.7 0)"><rect x="0" y="14" width="247.9" height="30" rx="15" fill="#0c1a17" stroke="#22D3A6" stroke-opacity="0.5"/><circle cx="16" cy="29" r="3.4" fill="#22D3A6"/><text class="mono" x="28" y="33" font-size="11.5" fill="#D6E4F0">Cricket Captain  -  State Level</text></g>
+  </g>
+  <rect width="1200" height="58" fill="url(#fade)"/>
+</g>
+</svg>

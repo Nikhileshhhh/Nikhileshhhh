@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 545" width="980" height="545" role="img" aria-label="Terminal introducing Nikhilesh Kamalapurkar">
+<defs>
+  <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#16202f"/><stop offset="1" stop-color="#101827"/>
+  </linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00E5FF"/><stop offset="0.5" stop-color="#A855F7"/><stop offset="1" stop-color="#22D3A6"/>
+  </linearGradient>
+  <style>
+    .mono { font-family: ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; }
+  </style>
+</defs>
+<rect x="1" y="1" width="978" height="543" rx="14" fill="#0b1220" stroke="#1e3350"/>
+<path d="M1 15 a14 14 0 0 1 14 -14 h950 a14 14 0 0 1 14 14 v29 h-978 z" fill="url(#bar)"/>
+<rect x="1" y="43" width="978" height="1.4" fill="url(#edge)" opacity="0.85"/>
+<circle cx="26" cy="23" r="6" fill="#FF5F57"/><circle cx="48" cy="23" r="6" fill="#FEBC2E"/><circle cx="70" cy="23" r="6" fill="#28C840"/>
+<text class="mono" x="490" y="27" font-size="12.5" fill="#5C7A99" text-anchor="middle">nikhilesh &#8212; zsh &#8212; 80x24</text>
+<clipPath id="clip0"><rect x="30" y="78.0" height="22" width="0"><animate attributeName="width" from="0" to="204.1" begin="0.35s" dur="1.08s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#clip0)"><text class="mono" x="30" y="92.0" font-size="14"><tspan fill="#22D3A6" xml:space="preserve">visitor@github</tspan><tspan fill="#5C7A99" xml:space="preserve">:</tspan><tspan fill="#7DD3FC" xml:space="preserve">~</tspan><tspan fill="#5C7A99" xml:space="preserve">$ </tspan><tspan fill="#E6EDF3" xml:space="preserve">whoami</tspan></text></g>
+<clipPath id="clip1"><rect x="30" y="105.0" height="22" width="0"><animate attributeName="width" from="0" to="187.2" begin="1.85s" dur="0.26s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#clip1)"><text class="mono" x="30" y="119.0" font-size="14"><tspan fill="#00E5FF" xml:space="preserve">nikhilesh_kamalapurkar</tspan></text></g>
+<clipPath id="clip3"><rect x="30" y="159.0" height="22" width="0"><animate attributeName="width" from="0" to="288.3" begin="2.38s" dur="1.53s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#clip3)"><text class="mono" x="30" y="173.0" font-size="14"><tspan fill="#22D3A6" xml:space="preserve">visitor@github</tspan><tspan fill="#5C7A99" xml:space="preserve">:</tspan><tspan fill="#7DD3FC" xml:space="preserve">~</tspan><tspan fill="#5C7A99" xml:space="preserve">$ </tspan><tspan fill="#E6EDF3" xml:space="preserve">cat profile.json</tspan></text></g>
+<clipPath id="clip4"><rect x="30" y="186.0" height="22" width="0"><animate attributeName="width" from="0" to="10.4" begin="4.33s" dur="0.25s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#clip4)"><text class="mono" x="30" y="200.0" font-size="14"><tspan fill="#5C7A99" xml:space="preserve">{</tspan></text></g>
+<clipPath id="clip5"><rect x="30" y="213.0" height="22" width="0"><animate attributeName="width" from="0" to="540.9" begin="4.67s" dur="0.77s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#clip5)"><text class="mono" x="30" y="227.0" font-size="14"><tspan fill="#A855F7" xml:space="preserve">  &quot;role&quot;        : </tspan><tspan fill="#FBBF24" xml:space="preserve">&quot;AI Developer Intern @ ABB Global Industries&quot;</tspan><tspan fill="#5C7A99" xml:space="preserve">,</tspan></text></g>
+<clipPath id="clip6"><rect x="30" y="240.0" height="22" width="0"><animate attributeName="width" from="0" to="481.9" begin="5.53s" dur="0.68s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#clip6)"><text class="mono" x="30" y="254.0" font-size="14"><tspan fill="#A855F7" xml:space="preserve">  &quot;degree&quot;      : </tspan><tspan fill="#FBBF24" xml:space="preserve">&quot;B.Tech CSE (AI &amp; ML), IARE Hyderabad&quot;</tspan><tspan fill="#5C7A99" xml:space="preserve">,</tspan></text></g>
+<clipPath id="clip7"><rect x="30" y="267.0" height="22" width="0"><animate attributeName="width" from="0" to="195.7" begin="6.31s" dur="0.28s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#clip7)"><text class="mono" x="30" y="281.0" font-size="14"><tspan fill="#A855F7" xml:space="preserve">  &quot;gpa&quot;         : </tspan><tspan fill="#22D3A6" xml:space="preserve">8.47</tspan><tspan fill="#5C7A99" xml:space="preserve">,</tspan></text></g>
+<clipPath id="clip8"><rect x="30" y="294.0" height="22" width="0"><animate attributeName="width" from="0" to="406.2" begin="6.67s" dur="0.58s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#clip8)"><text class="mono" x="30" y="308.0" font-size="14"><tspan fill="#A855F7" xml:space="preserve">  &quot;shipped&quot;     : [</tspan><tspan fill="#FBBF24" xml:space="preserve">&quot;ConfidenceOS&quot;</tspan><tspan fill="#5C7A99" xml:space="preserve">, </tspan><tspan fill="#FBBF24" xml:space="preserve">&quot;RankShala&quot;</tspan><tspan fill="#5C7A99" xml:space="preserve">],</tspan></text></g>
+<clipPath id="clip9"><rect x="30" y="321.0" height="22" width="0"><animate attributeName="width" from="0" to="540.9" begin="7.34s" dur="0.77s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#clip9)"><text class="mono" x="30" y="335.0" font-size="14"><tspan fill="#A855F7" xml:space="preserve">  &quot;best_rank&quot;   : </tspan><tspan fill="#FBBF24" xml:space="preserve">&quot;#1 of 1,400+ teams - ABB National Hackathon&quot;</tspan><tspan fill="#5C7A99" xml:space="preserve">,</tspan></text></g>
+<clipPath id="clip10"><rect x="30" y="348.0" height="22" width="0"><animate attributeName="width" from="0" to="439.8" begin="8.20s" dur="0.62s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#clip10)"><text class="mono" x="30" y="362.0" font-size="14"><tspan fill="#A855F7" xml:space="preserve">  &quot;mentored&quot;    : </tspan><tspan fill="#22D3A6" xml:space="preserve">70</tspan><tspan fill="#5C7A99" xml:space="preserve">,</tspan><tspan fill="#5C7A99" xml:space="preserve">  </tspan><tspan fill="#41556d" xml:space="preserve">// students, Brighter Brainzz</tspan></text></g>
+<clipPath id="clip11"><rect x="30" y="375.0" height="22" width="0"><animate attributeName="width" from="0" to="465.1" begin="8.91s" dur="0.66s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#clip11)"><text class="mono" x="30" y="389.0" font-size="14"><tspan fill="#A855F7" xml:space="preserve">  &quot;superpower&quot;  : </tspan><tspan fill="#FBBF24" xml:space="preserve">&quot;ships v1, then makes it trustworthy&quot;</tspan></text></g>
+<clipPath id="clip12"><rect x="30" y="402.0" height="22" width="0"><animate attributeName="width" from="0" to="10.4" begin="9.66s" dur="0.25s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#clip12)"><text class="mono" x="30" y="416.0" font-size="14"><tspan fill="#5C7A99" xml:space="preserve">}</tspan></text></g>
+<clipPath id="clip14"><rect x="30" y="456.0" height="22" width="0"><animate attributeName="width" from="0" to="254.6" begin="10.18s" dur="1.35s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#clip14)"><text class="mono" x="30" y="470.0" font-size="14"><tspan fill="#22D3A6" xml:space="preserve">visitor@github</tspan><tspan fill="#5C7A99" xml:space="preserve">:</tspan><tspan fill="#7DD3FC" xml:space="preserve">~</tspan><tspan fill="#5C7A99" xml:space="preserve">$ </tspan><tspan fill="#E6EDF3" xml:space="preserve">./hire_me.sh</tspan></text></g>
+<clipPath id="clip15"><rect x="30" y="483.0" height="22" width="0"><animate attributeName="width" from="0" to="448.3" begin="11.95s" dur="0.64s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#clip15)"><text class="mono" x="30" y="497.0" font-size="14"><tspan fill="#5C7A99" xml:space="preserve">status: </tspan><tspan fill="#22D3A6" xml:space="preserve">AVAILABLE</tspan><tspan fill="#5C7A99" xml:space="preserve">  |  </tspan><tspan fill="#00E5FF" xml:space="preserve">kamalapurkarnikhilesh@gmail.com</tspan></text></g>
+<g><rect id="cur" x="30" y="78.0" width="9" height="17" fill="#00E5FF" opacity="0.9">
+<animate attributeName="opacity" values="0.95;0.05;0.95" dur="1.05s" repeatCount="indefinite"/>
+<set attributeName="x" to="30.0" begin="0.35s"/>
+<set attributeName="y" to="78.0" begin="0.35s"/>
+<set attributeName="x" to="232.1" begin="1.43s"/>
+<set attributeName="y" to="78.0" begin="1.43s"/>
+<set attributeName="x" to="30.0" begin="1.85s"/>
+<set attributeName="y" to="105.0" begin="1.85s"/>
+<set attributeName="x" to="215.2" begin="2.11s"/>
+<set attributeName="y" to="105.0" begin="2.11s"/>
+<set attributeName="x" to="30.0" begin="2.20s"/>
+<set attributeName="y" to="132.0" begin="2.20s"/>
+<set attributeName="x" to="30.0" begin="2.38s"/>
+<set attributeName="y" to="159.0" begin="2.38s"/>
+<set attributeName="x" to="316.3" begin="3.91s"/>
+<set attributeName="y" to="159.0" begin="3.91s"/>
+<set attributeName="x" to="30.0" begin="4.33s"/>
+<set attributeName="y" to="186.0" begin="4.33s"/>
+<set attributeName="x" to="38.4" begin="4.58s"/>
+<set attributeName="y" to="186.0" begin="4.58s"/>
+<set attributeName="x" to="30.0" begin="4.67s"/>
+<set attributeName="y" to="213.0" begin="4.67s"/>
+<set attributeName="x" to="568.9" begin="5.44s"/>
+<set attributeName="y" to="213.0" begin="5.44s"/>
+<set attributeName="x" to="30.0" begin="5.53s"/>
+<set attributeName="y" to="240.0" begin="5.53s"/>
+<set attributeName="x" to="509.9" begin="6.22s"/>
+<set attributeName="y" to="240.0" begin="6.22s"/>
+<set attributeName="x" to="30.0" begin="6.31s"/>
+<set attributeName="y" to="267.0" begin="6.31s"/>
+<set attributeName="x" to="223.7" begin="6.58s"/>
+<set attributeName="y" to="267.0" begin="6.58s"/>
+<set attributeName="x" to="30.0" begin="6.67s"/>
+<set attributeName="y" to="294.0" begin="6.67s"/>
+<set attributeName="x" to="434.2" begin="7.25s"/>
+<set attributeName="y" to="294.0" begin="7.25s"/>
+<set attributeName="x" to="30.0" begin="7.34s"/>
+<set attributeName="y" to="321.0" begin="7.34s"/>
+<set attributeName="x" to="568.9" begin="8.11s"/>
+<set attributeName="y" to="321.0" begin="8.11s"/>
+<set attributeName="x" to="30.0" begin="8.20s"/>
+<set attributeName="y" to="348.0" begin="8.20s"/>
+<set attributeName="x" to="467.8" begin="8.82s"/>
+<set attributeName="y" to="348.0" begin="8.82s"/>
+<set attributeName="x" to="30.0" begin="8.91s"/>
+<set attributeName="y" to="375.0" begin="8.91s"/>
+<set attributeName="x" to="493.1" begin="9.57s"/>
+<set attributeName="y" to="375.0" begin="9.57s"/>
+<set attributeName="x" to="30.0" begin="9.66s"/>
+<set attributeName="y" to="402.0" begin="9.66s"/>
+<set attributeName="x" to="38.4" begin="9.91s"/>
+<set attributeName="y" to="402.0" begin="9.91s"/>
+<set attributeName="x" to="30.0" begin="10.00s"/>
+<set attributeName="y" to="429.0" begin="10.00s"/>
+<set attributeName="x" to="30.0" begin="10.18s"/>
+<set attributeName="y" to="456.0" begin="10.18s"/>
+<set attributeName="x" to="282.6" begin="11.53s"/>
+<set attributeName="y" to="456.0" begin="11.53s"/>
+<set attributeName="x" to="30.0" begin="11.95s"/>
+<set attributeName="y" to="483.0" begin="11.95s"/>
+<set attributeName="x" to="476.3" begin="12.59s"/>
+<set attributeName="y" to="483.0" begin="12.59s"/>
+</rect></g>
+<rect x="1" y="1" width="978" height="543" rx="14" fill="none" stroke="#1e3350"/>
+</svg>
