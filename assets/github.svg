@@ -109,24 +109,24 @@
   <circle cx="827.0" cy="240" r="0" fill="#2F5FD0"><animate attributeName="r" from="0" to="5" begin="1.71s" dur="0.4s" fill="freeze"/></circle>
 </g>
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.35s" begin="1.82s" fill="freeze"/>
-  <line x1="878.0" y1="246" x2="878.0" y2="252" stroke="#41556d" stroke-opacity="0.35"/>
-  <circle cx="878.0" cy="240" r="0" fill="#41556d"><animate attributeName="r" from="0" to="5" begin="1.82s" dur="0.4s" fill="freeze"/></circle>
+  <line x1="878.0" y1="246" x2="878.0" y2="252" stroke="#4DA6FF" stroke-opacity="0.35"/>
+  <circle cx="878.0" cy="240" r="0" fill="#4DA6FF"><animate attributeName="r" from="0" to="5" begin="1.82s" dur="0.4s" fill="freeze"/></circle>
 </g>
 <text class="mono" x="26" y="300" font-size="9.5" fill="#41556d" letter-spacing="1.8">BY PRIMARY LANGUAGE</text>
-<rect x="26.0" y="310" width="0" height="10" rx="2" fill="#2F5FD0"><animate attributeName="width" from="0" to="201.9" begin="1.20s" dur="0.6s" fill="freeze"/></rect>
-<rect x="230.9" y="310" width="0" height="10" rx="2" fill="#4DA6FF"><animate attributeName="width" from="0" to="133.6" begin="1.32s" dur="0.6s" fill="freeze"/></rect>
-<rect x="367.5" y="310" width="0" height="10" rx="2" fill="#00B4AB"><animate attributeName="width" from="0" to="65.3" begin="1.44s" dur="0.6s" fill="freeze"/></rect>
-<rect x="435.8" y="310" width="0" height="10" rx="2" fill="#B07219"><animate attributeName="width" from="0" to="65.3" begin="1.56s" dur="0.6s" fill="freeze"/></rect>
-<rect x="504.2" y="310" width="0" height="10" rx="2" fill="#F1E05A"><animate attributeName="width" from="0" to="65.3" begin="1.68s" dur="0.6s" fill="freeze"/></rect>
-<rect x="572.5" y="310" width="0" height="10" rx="2" fill="#DA5B0B"><animate attributeName="width" from="0" to="65.3" begin="1.80s" dur="0.6s" fill="freeze"/></rect>
-<rect x="640.8" y="310" width="0" height="10" rx="2" fill="#41556d"><animate attributeName="width" from="0" to="270.2" begin="1.92s" dur="0.6s" fill="freeze"/></rect>
+<rect x="26.0" y="310" width="0" height="10" rx="2" fill="#4DA6FF"><animate attributeName="width" from="0" to="201.9" begin="1.20s" dur="0.6s" fill="freeze"/></rect>
+<rect x="230.9" y="310" width="0" height="10" rx="2" fill="#2F5FD0"><animate attributeName="width" from="0" to="201.9" begin="1.32s" dur="0.6s" fill="freeze"/></rect>
+<rect x="435.8" y="310" width="0" height="10" rx="2" fill="#00B4AB"><animate attributeName="width" from="0" to="65.3" begin="1.44s" dur="0.6s" fill="freeze"/></rect>
+<rect x="504.2" y="310" width="0" height="10" rx="2" fill="#B07219"><animate attributeName="width" from="0" to="65.3" begin="1.56s" dur="0.6s" fill="freeze"/></rect>
+<rect x="572.5" y="310" width="0" height="10" rx="2" fill="#F1E05A"><animate attributeName="width" from="0" to="65.3" begin="1.68s" dur="0.6s" fill="freeze"/></rect>
+<rect x="640.8" y="310" width="0" height="10" rx="2" fill="#DA5B0B"><animate attributeName="width" from="0" to="65.3" begin="1.80s" dur="0.6s" fill="freeze"/></rect>
+<rect x="709.1" y="310" width="0" height="10" rx="2" fill="#41556d"><animate attributeName="width" from="0" to="201.9" begin="1.92s" dur="0.6s" fill="freeze"/></rect>
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.60s" fill="freeze"/>
-  <circle cx="30" cy="340" r="4" fill="#2F5FD0"/>
-  <text class="mono" x="40" y="344" font-size="10" fill="#8B97A8">TypeScript 3</text>
+  <circle cx="30" cy="340" r="4" fill="#4DA6FF"/>
+  <text class="mono" x="40" y="344" font-size="10" fill="#8B97A8">Python 3</text>
 </g>
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.70s" fill="freeze"/>
-  <circle cx="119.1" cy="340" r="4" fill="#4DA6FF"/>
-  <text class="mono" x="129.1" y="344" font-size="10" fill="#8B97A8">Python 2</text>
+  <circle cx="94.69999999999999" cy="340" r="4" fill="#2F5FD0"/>
+  <text class="mono" x="104.69999999999999" y="344" font-size="10" fill="#8B97A8">TypeScript 3</text>
 </g>
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.80s" fill="freeze"/>
   <circle cx="183.79999999999998" cy="340" r="4" fill="#00B4AB"/>
@@ -146,6 +146,6 @@
 </g>
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.20s" fill="freeze"/>
   <circle cx="503.59999999999997" cy="340" r="4" fill="#41556d"/>
-  <text class="mono" x="513.5999999999999" y="344" font-size="10" fill="#8B97A8">Other 4</text>
+  <text class="mono" x="513.5999999999999" y="344" font-size="10" fill="#8B97A8">Other 3</text>
 </g>
 </svg>
