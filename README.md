@@ -305,7 +305,6 @@ If that's the kind of engineer your team is looking for — my inbox is open.
 <a href="https://www.linkedin.com/in/nikhileshkamalapurkar"><img src="https://img.shields.io/badge/linkedin.com/in/nikhileshkamalapurkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/Nikhileshhhh"><img src="https://img.shields.io/badge/github.com/Nikhileshhhh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <br/>
-<img src="https://img.shields.io/badge/📞_+91_83320_70494-25D366?style=for-the-badge" alt="Phone" />
 
 <br/><br/>
 
