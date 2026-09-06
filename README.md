@@ -106,7 +106,7 @@ Outside the editor, I've co-run a tutoring program since 2021 that grew from **3
 | **Infra** | Azure DevOps · Docker · AWS · CI/CD · Supabase · Firebase · Postgres |
 | **Looking for** | AI/ML Engineering · Full-Stack · Product Engineering roles |
 | **Location** | Hyderabad, India · open to relocation |
-| **Reach me** | [kamalapurkarnikhilesh@gmail.com](mailto:kamalapurkarnikhilesh@gmail.com) · [+91 83320 70494](tel:+918332070494) |
+| **Reach me** | [kamalapurkarnikhilesh@gmail.com](mailto:kamalapurkarnikhilesh@gmail.com) |
 
 </details>
 
@@ -482,7 +482,6 @@ If that's the shape of engineer your team is missing — the inbox is open.
 <br/>
 <a href="https://www.linkedin.com/in/nikhileshkamalapurkar"><img src="https://img.shields.io/badge/in/nikhileshkamalapurkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1220" alt="LinkedIn" /></a>
 <a href="https://github.com/Nikhileshhhh"><img src="https://img.shields.io/badge/Nikhileshhhh-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1220" alt="GitHub" /></a>
-<a href="tel:+918332070494"><img src="https://img.shields.io/badge/+91_83320_70494-22D3A6?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0b1220" alt="Phone" /></a>
 
 </div>
 

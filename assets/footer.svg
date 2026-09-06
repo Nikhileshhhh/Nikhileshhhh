@@ -35,7 +35,7 @@
 
   <text class="sans" x="600" y="50" font-size="26" font-weight="800" text-anchor="middle" fill="url(#fTxt)">Thanks for scrolling this far.</text>
   <text class="mono" x="600" y="78" font-size="13.5" text-anchor="middle" fill="#8B97A8">Now let&#8217;s build something worth scrolling through.</text>
-  <text class="mono" x="600" y="102" font-size="12" text-anchor="middle" fill="#6B7F96">kamalapurkarnikhilesh@gmail.com &#160;&#183;&#160; +91 83320 70494 &#160;&#183;&#160; Hyderabad, India</text>
+  <text class="mono" x="600" y="102" font-size="12" text-anchor="middle" fill="#6B7F96">kamalapurkarnikhilesh@gmail.com &#160;&#183;&#160; linkedin.com/in/nikhileshkamalapurkar &#160;&#183;&#160; Hyderabad, India</text>
 
   <g fill="#CFF6FF">
     <circle cx="140" cy="40" r="1.6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="3s" repeatCount="indefinite"/></circle>
