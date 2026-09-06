@@ -1,0 +1,60 @@
+name: Refresh profile graphics
+
+# Regenerates the contribution snake and the GitHub activity panel, then
+# commits them into assets/ on main. Keeping them in-repo means the README
+# references relative paths only — no third-party image hosts, no camo cache
+# misses, nothing to rate-limit.
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/profile.yml"
+      - "scripts/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-graphics
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/snake.svg?color_snake=#A855F7&color_dots=#8b8b8b26,#1E3A8A,#2F5FD0,#4DA6FF,#00E5FF
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate GitHub activity panel
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+        run: python scripts/gen_github_panel.py
+
+      - name: Commit refreshed graphics
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/snake.svg assets/github.svg
+          if git diff --staged --quiet; then
+            echo "No changes to profile graphics."
+          else
+            git commit -m "chore: refresh profile graphics [skip ci]"
+            git push
+          fi

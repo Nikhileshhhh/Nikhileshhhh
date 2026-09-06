@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 360" width="940" height="360" role="img" aria-label="GitHub activity: 13 public repositories across 6 languages">
+<defs>
+  <linearGradient id="gPanel" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#0d1a26"/>
+  </linearGradient>
+  <filter id="gGlow" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="3.5" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <style>
+    .mono { font-family: ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; }
+    .sans { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+  </style>
+</defs>
+<rect x="1" y="1" width="938" height="358" rx="16" fill="url(#gPanel)" stroke="#1e3350"/>
+<text class="sans" x="26" y="34" font-size="17" font-weight="700" fill="#E6EDF3">GitHub activity</text>
+<text class="mono" x="150" y="34" font-size="12" fill="#5C7A99">/ generated in this repo, refreshed daily</text>
+<g transform="translate(788 20)">
+  <rect width="130" height="22" rx="11" fill="#0c1a17" stroke="#22D3A6" stroke-opacity="0.45"/>
+  <circle cx="14" cy="11" r="3.6" fill="#22D3A6"><animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite"/></circle>
+  <text class="mono" x="26" y="15" font-size="10.5" fill="#8CE8CF" letter-spacing="1">SELF-HOSTED</text>
+</g>
+<line x1="20" y1="50" x2="920" y2="50" stroke="#1b2a3e"/>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.00s" fill="freeze"/>
+  <rect x="26" y="66" width="205" height="72" rx="12" fill="#0f1b2d" stroke="#00E5FF" stroke-opacity="0.35"/>
+  <rect x="26" y="66" width="3" height="72" rx="1.5" fill="#00E5FF"/>
+  <text class="mono" x="44" y="90" font-size="9.5" fill="#5C7A99" letter-spacing="1.6">PUBLIC REPOS</text>
+  <text class="sans" x="44" y="124" font-size="30" font-weight="800" fill="#00E5FF" filter="url(#gGlow)">13</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.15s" fill="freeze"/>
+  <rect x="245" y="66" width="205" height="72" rx="12" fill="#0f1b2d" stroke="#A855F7" stroke-opacity="0.35"/>
+  <rect x="245" y="66" width="3" height="72" rx="1.5" fill="#A855F7"/>
+  <text class="mono" x="263" y="90" font-size="9.5" fill="#5C7A99" letter-spacing="1.6">LANGUAGES</text>
+  <text class="sans" x="263" y="124" font-size="30" font-weight="800" fill="#A855F7" filter="url(#gGlow)">6</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.30s" fill="freeze"/>
+  <rect x="464" y="66" width="205" height="72" rx="12" fill="#0f1b2d" stroke="#22D3A6" stroke-opacity="0.35"/>
+  <rect x="464" y="66" width="3" height="72" rx="1.5" fill="#22D3A6"/>
+  <text class="mono" x="482" y="90" font-size="9.5" fill="#5C7A99" letter-spacing="1.6">BUILDING SINCE</text>
+  <text class="sans" x="482" y="124" font-size="21" font-weight="800" fill="#22D3A6" filter="url(#gGlow)">May 2025</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.45s" fill="freeze"/>
+  <rect x="683" y="66" width="205" height="72" rx="12" fill="#0f1b2d" stroke="#FBBF24" stroke-opacity="0.35"/>
+  <rect x="683" y="66" width="3" height="72" rx="1.5" fill="#FBBF24"/>
+  <text class="mono" x="701" y="90" font-size="9.5" fill="#5C7A99" letter-spacing="1.6">STARS EARNED</text>
+  <text class="sans" x="701" y="124" font-size="30" font-weight="800" fill="#FBBF24" filter="url(#gGlow)">4</text>
+</g>
+<text class="mono" x="26" y="172" font-size="9.5" fill="#41556d" letter-spacing="1.8">REPOSITORY TIMELINE</text>
+<line x1="62" y1="252" x2="878" y2="252" stroke="#2c4a68"/>
+<rect x="62" y="251" height="2" fill="#00E5FF" width="0" filter="url(#gGlow)"><animate attributeName="width" from="0" to="816" begin="0.4s" dur="2.2s" fill="freeze"/></rect>
+<line x1="62.0" y1="252" x2="62.0" y2="258" stroke="#2c4a68"/>
+<text class="mono" x="62.0" y="272" font-size="9" fill="#41556d" text-anchor="middle">May 25</text>
+<line x1="215.0" y1="252" x2="215.0" y2="258" stroke="#2c4a68"/>
+<text class="mono" x="215.0" y="272" font-size="9" fill="#41556d" text-anchor="middle">Aug 25</text>
+<line x1="368.0" y1="252" x2="368.0" y2="258" stroke="#2c4a68"/>
+<text class="mono" x="368.0" y="272" font-size="9" fill="#41556d" text-anchor="middle">Nov 25</text>
+<line x1="521.0" y1="252" x2="521.0" y2="258" stroke="#2c4a68"/>
+<text class="mono" x="521.0" y="272" font-size="9" fill="#41556d" text-anchor="middle">Feb 26</text>
+<line x1="674.0" y1="252" x2="674.0" y2="258" stroke="#2c4a68"/>
+<text class="mono" x="674.0" y="272" font-size="9" fill="#41556d" text-anchor="middle">May 26</text>
+<line x1="827.0" y1="252" x2="827.0" y2="258" stroke="#2c4a68"/>
+<text class="mono" x="827.0" y="272" font-size="9" fill="#41556d" text-anchor="middle">Aug 26</text>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.35s" begin="0.50s" fill="freeze"/>
+  <line x1="62.0" y1="246" x2="62.0" y2="252" stroke="#4DA6FF" stroke-opacity="0.35"/>
+  <circle cx="62.0" cy="240" r="0" fill="#4DA6FF"><animate attributeName="r" from="0" to="5" begin="0.50s" dur="0.4s" fill="freeze"/></circle>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.35s" begin="0.61s" fill="freeze"/>
+  <line x1="62.0" y1="231" x2="62.0" y2="252" stroke="#DA5B0B" stroke-opacity="0.35"/>
+  <circle cx="62.0" cy="225" r="0" fill="#DA5B0B"><animate attributeName="r" from="0" to="5" begin="0.61s" dur="0.4s" fill="freeze"/></circle>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.35s" begin="0.72s" fill="freeze"/>
+  <line x1="62.0" y1="216" x2="62.0" y2="252" stroke="#4DA6FF" stroke-opacity="0.35"/>
+  <circle cx="62.0" cy="210" r="0" fill="#4DA6FF"><animate attributeName="r" from="0" to="5" begin="0.72s" dur="0.4s" fill="freeze"/></circle>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.35s" begin="0.83s" fill="freeze"/>
+  <line x1="164.0" y1="246" x2="164.0" y2="252" stroke="#2F5FD0" stroke-opacity="0.35"/>
+  <circle cx="164.0" cy="240" r="0" fill="#2F5FD0"><animate attributeName="r" from="0" to="5" begin="0.83s" dur="0.4s" fill="freeze"/></circle>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.35s" begin="0.94s" fill="freeze"/>
+  <line x1="266.0" y1="246" x2="266.0" y2="252" stroke="#2F5FD0" stroke-opacity="0.35"/>
+  <circle cx="266.0" cy="240" r="0" fill="#2F5FD0"><animate attributeName="r" from="0" to="5" begin="0.94s" dur="0.4s" fill="freeze"/></circle>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.35s" begin="1.05s" fill="freeze"/>
+  <line x1="419.0" y1="246" x2="419.0" y2="252" stroke="#41556d" stroke-opacity="0.35"/>
+  <circle cx="419.0" cy="240" r="0" fill="#41556d"><animate attributeName="r" from="0" to="5" begin="1.05s" dur="0.4s" fill="freeze"/></circle>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.35s" begin="1.16s" fill="freeze"/>
+  <line x1="419.0" y1="231" x2="419.0" y2="252" stroke="#B07219" stroke-opacity="0.35"/>
+  <circle cx="419.0" cy="225" r="0" fill="#B07219"><animate attributeName="r" from="0" to="5" begin="1.16s" dur="0.4s" fill="freeze"/></circle>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.35s" begin="1.27s" fill="freeze"/>
+  <line x1="521.0" y1="246" x2="521.0" y2="252" stroke="#41556d" stroke-opacity="0.35"/>
+  <circle cx="521.0" cy="240" r="0" fill="#41556d"><animate attributeName="r" from="0" to="5" begin="1.27s" dur="0.4s" fill="freeze"/></circle>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.35s" begin="1.38s" fill="freeze"/>
+  <line x1="674.0" y1="246" x2="674.0" y2="252" stroke="#F1E05A" stroke-opacity="0.35"/>
+  <circle cx="674.0" cy="240" r="0" fill="#F1E05A"><animate attributeName="r" from="0" to="5" begin="1.38s" dur="0.4s" fill="freeze"/></circle>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.35s" begin="1.49s" fill="freeze"/>
+  <line x1="674.0" y1="231" x2="674.0" y2="252" stroke="#41556d" stroke-opacity="0.35"/>
+  <circle cx="674.0" cy="225" r="0" fill="#41556d"><animate attributeName="r" from="0" to="5" begin="1.49s" dur="0.4s" fill="freeze"/></circle>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.35s" begin="1.60s" fill="freeze"/>
+  <line x1="725.0" y1="246" x2="725.0" y2="252" stroke="#00B4AB" stroke-opacity="0.35"/>
+  <circle cx="725.0" cy="240" r="0" fill="#00B4AB"><animate attributeName="r" from="0" to="5" begin="1.60s" dur="0.4s" fill="freeze"/></circle>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.35s" begin="1.71s" fill="freeze"/>
+  <line x1="827.0" y1="246" x2="827.0" y2="252" stroke="#2F5FD0" stroke-opacity="0.35"/>
+  <circle cx="827.0" cy="240" r="0" fill="#2F5FD0"><animate attributeName="r" from="0" to="5" begin="1.71s" dur="0.4s" fill="freeze"/></circle>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.35s" begin="1.82s" fill="freeze"/>
+  <line x1="878.0" y1="246" x2="878.0" y2="252" stroke="#41556d" stroke-opacity="0.35"/>
+  <circle cx="878.0" cy="240" r="0" fill="#41556d"><animate attributeName="r" from="0" to="5" begin="1.82s" dur="0.4s" fill="freeze"/></circle>
+</g>
+<text class="mono" x="26" y="300" font-size="9.5" fill="#41556d" letter-spacing="1.8">BY PRIMARY LANGUAGE</text>
+<rect x="26.0" y="310" width="0" height="10" rx="2" fill="#2F5FD0"><animate attributeName="width" from="0" to="201.9" begin="1.20s" dur="0.6s" fill="freeze"/></rect>
+<rect x="230.9" y="310" width="0" height="10" rx="2" fill="#4DA6FF"><animate attributeName="width" from="0" to="133.6" begin="1.32s" dur="0.6s" fill="freeze"/></rect>
+<rect x="367.5" y="310" width="0" height="10" rx="2" fill="#00B4AB"><animate attributeName="width" from="0" to="65.3" begin="1.44s" dur="0.6s" fill="freeze"/></rect>
+<rect x="435.8" y="310" width="0" height="10" rx="2" fill="#B07219"><animate attributeName="width" from="0" to="65.3" begin="1.56s" dur="0.6s" fill="freeze"/></rect>
+<rect x="504.2" y="310" width="0" height="10" rx="2" fill="#F1E05A"><animate attributeName="width" from="0" to="65.3" begin="1.68s" dur="0.6s" fill="freeze"/></rect>
+<rect x="572.5" y="310" width="0" height="10" rx="2" fill="#DA5B0B"><animate attributeName="width" from="0" to="65.3" begin="1.80s" dur="0.6s" fill="freeze"/></rect>
+<rect x="640.8" y="310" width="0" height="10" rx="2" fill="#41556d"><animate attributeName="width" from="0" to="270.2" begin="1.92s" dur="0.6s" fill="freeze"/></rect>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.60s" fill="freeze"/>
+  <circle cx="30" cy="340" r="4" fill="#2F5FD0"/>
+  <text class="mono" x="40" y="344" font-size="10" fill="#8B97A8">TypeScript 3</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.70s" fill="freeze"/>
+  <circle cx="119.1" cy="340" r="4" fill="#4DA6FF"/>
+  <text class="mono" x="129.1" y="344" font-size="10" fill="#8B97A8">Python 2</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.80s" fill="freeze"/>
+  <circle cx="183.79999999999998" cy="340" r="4" fill="#00B4AB"/>
+  <text class="mono" x="193.79999999999998" y="344" font-size="10" fill="#8B97A8">Dart 1</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.90s" fill="freeze"/>
+  <circle cx="236.29999999999998" cy="340" r="4" fill="#B07219"/>
+  <text class="mono" x="246.29999999999998" y="344" font-size="10" fill="#8B97A8">Java 1</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.00s" fill="freeze"/>
+  <circle cx="288.79999999999995" cy="340" r="4" fill="#F1E05A"/>
+  <text class="mono" x="298.79999999999995" y="344" font-size="10" fill="#8B97A8">JavaScript 1</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.10s" fill="freeze"/>
+  <circle cx="377.9" cy="340" r="4" fill="#DA5B0B"/>
+  <text class="mono" x="387.9" y="344" font-size="10" fill="#8B97A8">Jupyter Notebook 1</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.20s" fill="freeze"/>
+  <circle cx="503.59999999999997" cy="340" r="4" fill="#41556d"/>
+  <text class="mono" x="513.5999999999999" y="344" font-size="10" fill="#8B97A8">Other 4</text>
+</g>
+</svg>

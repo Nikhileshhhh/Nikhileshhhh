@@ -362,22 +362,17 @@ The traction is the part I'm proudest of: it means the product was right, not th
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nikhileshhhh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=00E5FF&icon_color=A855F7&text_color=D6E4F0&bg_color=0b1220" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhileshhhh&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=00E5FF&text_color=D6E4F0&bg_color=0b1220" alt="Most used languages" />
+<img src="assets/github.svg" width="97%" alt="GitHub activity: 13 public repositories across 6 languages, building since May 2025, with a timeline of every repository and a breakdown by primary language" />
 
-<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhileshhhh&theme=react-dark&hide_border=true&bg_color=0b1220&color=00E5FF&line=A855F7&point=F472B6&area=true&area_color=00E5FF" alt="Contribution activity graph" />
-
-<img width="97%" src="https://github-profile-trophy.vercel.app/?username=Nikhileshhhh&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
-
-<br/>
+<br/><br/>
 
 **🐍 watch the snake eat my contributions**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nikhileshhhh/Nikhileshhhh/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nikhileshhhh/Nikhileshhhh/output/snake-light.svg" />
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Nikhileshhhh/Nikhileshhhh/output/snake-dark.svg" width="97%" />
-</picture>
+<img src="assets/snake.svg" width="97%" alt="Snake eating my contribution graph" />
+
+<br/>
+
+<sub>Both graphics are generated inside this repository and refreshed daily by <a href="https://github.com/Nikhileshhhh/Nikhileshhhh/blob/main/.github/workflows/profile.yml">a GitHub Action</a> — no third-party image hosts, nothing to rate-limit.</sub>
 
 </div>
 
