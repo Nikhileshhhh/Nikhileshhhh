@@ -38,7 +38,7 @@
 <a href="#-things-ive-built"><img src="https://img.shields.io/badge/04-PROJECTS-F472B6?style=for-the-badge&labelColor=0b1220" alt="Projects" /></a>
 <a href="#-github-in-motion"><img src="https://img.shields.io/badge/05-STATS-22D3A6?style=for-the-badge&labelColor=0b1220" alt="Stats" /></a>
 <a href="#-receipts"><img src="https://img.shields.io/badge/06-RECEIPTS-FBBF24?style=for-the-badge&labelColor=0b1220" alt="Receipts" /></a>
-<a href="#-lets-talk"><img src="https://img.shields.io/badge/07-HIRE_ME-F87171?style=for-the-badge&labelColor=0b1220" alt="Hire me" /></a>
+<a href="#-lets-talk"><img src="https://img.shields.io/badge/07-HIRE_ME-F87171?style=for-the-badge&labelColor=0b1220" alt="Contact me" /></a>
 
 </div>
 
